@@ -1,0 +1,13 @@
+{
+    "nombre": "Elian",
+    "saldo_local": 1940,
+    "saldo_multi": 1000,
+    "inventario_local": [
+        [
+            "MP5",
+            1200,
+            "com\u00fan"
+        ]
+    ],
+    "inventario_multi": []
+}

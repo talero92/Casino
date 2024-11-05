@@ -1,0 +1,18 @@
+{
+    "nombre": "Tetute0025",
+    "saldo_local": 11160,
+    "saldo_multi": 1000,
+    "inventario_local": [
+        [
+            "M9 Bayonet",
+            12500,
+            "legendaria"
+        ],
+        [
+            "Karambit",
+            10000,
+            "legendaria"
+        ]
+    ],
+    "inventario_multi": []
+}
