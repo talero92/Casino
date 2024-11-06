@@ -340,7 +340,7 @@ def gestionar_sala(cliente, usuario, id_sala):
         start_time = time.time()  
         while time.time() - start_time < 5:  
             if msvcrt.kbhit():  
- opcion = msvcrt.getch().decode()  
+                 opcion = msvcrt.getch().decode()  
                 break  
         else:  
             continue  
