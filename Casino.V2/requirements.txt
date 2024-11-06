@@ -1,5 +1,1 @@
-socket
-threading
-json
-random
-time
+# No additional packages required
